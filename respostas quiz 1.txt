@@ -1,0 +1,15 @@
+1 - Python is an example of an Interpreted language
+2 - Data Science is a Interdisciplinary.
+3 - Data visualization is a part of a data science
+4 - Python tuples: ()
+5 - In python, strings are considered mutable, and can be changed. False
+6 - ['a','b','c']+[1,2,3]
+7 - String Slicing is a way do make a substring of a string in python
+8 - When you create a lambda, what type is returned? <class 'function'>
+9 - the epoch refers to january 1, year 1970
+10 - This code, [x**2 for x in range(10)] , is an example of a List Comprehension
+11 - r.reshape(36)[::7]
+12 - r[2:4,2:4]
+
+
+
